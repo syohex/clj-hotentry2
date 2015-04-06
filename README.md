@@ -1,14 +1,15 @@
 # hotentry2
 
-A Clojure library designed to ... well, that part is up to you.
+Hatena hotentry viewer in Clojure with standard XML library
 
 ## Usage
 
-FIXME
+```
+% lein new keyword
+```
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Syohei YOSHIDA
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License either version 1.0 or any later version.
