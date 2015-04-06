@@ -3,5 +3,6 @@
   :url "https://github.com/syohex/clj-hotentry2"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :main hotentry2.core
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/tools.cli "0.3.1"]])
